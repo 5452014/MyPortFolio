@@ -4,7 +4,7 @@ import React from 'react';
 
 
 export default function Skills() {
-    const skills = ["HTML", "CSS", "Javascript", "React", "MySql","C++" ];
+    const skills = ["HTML", "CSS", "Javascript", "React", "MYSQL","C++" ];
     return (
         <section id="skills"
             className="px-10 w-full my-40 max-w-5xl mx-auto">
